@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "魔法のくすり",
+  "base_artist": "Yumi Matsutoya",
+  "createdAt": "2025-12-19T13:26:20.968578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔法のくすり",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/01_魔法のくすり_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魔法のくすり",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/02_魔法のくすり_松任谷由実.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法のくすり",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_魔法のくすり_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "魔法のくすり",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_02_魔法のくすり_松任谷_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "魔法のくすり",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_03_魔法のくすり_松任谷_由実.txt"
+    }
+  ]
+}
